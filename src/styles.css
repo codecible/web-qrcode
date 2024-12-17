@@ -29,11 +29,11 @@
 
 .favicon-overlay {
   position: absolute;
-  top: 50%;
+  top: 48%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 24px;
-  height: 24px;
+  width: 30px;
+  height: 30px;
   background: white;
   padding: 4px;
   border-radius: 6px;
